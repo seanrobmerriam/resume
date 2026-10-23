@@ -1,18 +1,18 @@
 # Edit this file to update all text rendered by the site.
-name: John Doe
-role: Senior Software Engineer / Platform
-location: Amsterdam, Netherlands
+name: Sean Merriam
+role: Software & Design Engineer
+location: Santa Cruz, California, USA
 # Optional. Any CSS color; see README for Awesome-CV presets.
-accent: '#dc3522'
+accent: '#FFD60A'
 # Shows a banner that marks this page as the theme demo. Remove this line for your own CV.
-demo: true
-summary: Software engineer with 9+ years building backend systems and developer platforms for e-commerce and fintech. I care about reliable services, fast feedback loops and helping teams ship with confidence.
+demo: false
+summary: Software engineer with 8+ years building APIs, server(less) functions, developer tools, custom content management platforms, and agent driven engineering workflows, tools, and eval platforms. I prioritize developing reliable, maintainable, and useful software that benefits both engineering and product teams.
 contact:
-  email: john.doe@example.com
+  email: sean@seanmerriam.com
   linkedin: https://www.linkedin.com/in/example
-  github: https://github.com/example
+  github: https://github.com/seanrobmerriam
 projects:
-  - title: Open source feature flag service
+  - title: sole
     description: Built and maintain a lightweight feature flag service in Go, used by several small teams for gradual rollouts and kill switches.
   - title: Kafka consumer lag exporter
     description: Prometheus exporter that reports consumer group lag per partition, with alerting rules and a Grafana dashboard.
